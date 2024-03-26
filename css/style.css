@@ -44,6 +44,11 @@ body {
 
 /* capa */
 
+.carousel-control-prev, .carousel-control-next {
+    width: 5%;
+}
+
+
 .capa {
     text-align: center;
 }
